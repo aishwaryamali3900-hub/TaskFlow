@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow – Smart To-Do Manager",
+  "description": "A modern, responsive to-do list and task management web application backed by PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
